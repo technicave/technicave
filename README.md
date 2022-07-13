@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @technicave ( Aryan )
-- 👀 I’m interested in ... Technology and Business
-- 🌱 I’m currently learning ... ( Python app Development and Web backend Development )
-- 💞️ I’m looking to collaborate on ... ( Tech Product )
-- 📫 How to reach me ... ( Email = baaryan96@gmail.com )
+- 👋 Hi, I’m Aryan Tiwari.
+- 👀 I’m interested in Programming, Creating and Contributing to useful Projects.
+- 💞️ I’m looking to collaborate on new Technologies and Projects.
+- 📫 You can reach me @ https://twitter.com/technicave
 
 <!---
 technicave/technicave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
