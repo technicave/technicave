@@ -10,7 +10,7 @@
   <a href="https://discord.com/invite/jZQs6Wu">
     <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" alt="EddieHub Discord"/>
   </a>
-  <a href="youtube.com/channel/UC2BcAOTlMvivESrdP_oD_jQ">
+  <a href="https://youtube.com/channel/UC2BcAOTlMvivESrdP_oD_jQ">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC2BcAOTlMvivESrdP_oD_jQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Aryan's YouTube channel"/>
   </a>
 </p>
