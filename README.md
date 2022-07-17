@@ -28,7 +28,7 @@
 
 ## Mini Products
 - [AssetEstate](https://assetestate.herokuapp.com/) Created by Aryan to buy Real Estate Propertries in India
-
+- [RecordStack](https://recordstack.github.io/recordstack/) Website to purchase Desktop Applications
 
 ---
 
