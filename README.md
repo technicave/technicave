@@ -13,7 +13,7 @@
   <a href="https://youtube.com/channel/UC2BcAOTlMvivESrdP_oD_jQ">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC2BcAOTlMvivESrdP_oD_jQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Aryan's YouTube channel"/>
   </a>
-  <a href="https://www.linkedin.com/profile/technicave">
+  <a href="https://linkedin.com/in/technicave">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aryan's Linkedin"/>
   </a>
   
