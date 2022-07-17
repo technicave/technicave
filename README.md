@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/twitter/follow/technicave?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Aryan's Twitter"/>
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" alt="EddieHub Discord"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Aryan's Instagram"/>
   </a>
   <a href="https://youtube.com/channel/UC2BcAOTlMvivESrdP_oD_jQ">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC2BcAOTlMvivESrdP_oD_jQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Aryan's YouTube channel"/>
