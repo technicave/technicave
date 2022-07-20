@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="http://twitter.com/technicave">
-    <img src="https://img.shields.io/twitter/follow/technicave?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Aryan's Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Aryan's Twitter"/>
   </a>
   <a href="https://instagram.com/technicave">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Aryan's Instagram"/>
