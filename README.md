@@ -1,5 +1,9 @@
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/technicave/technicave/main/Aryan%20(1).gif" /></a>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+Devs..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Computer+Science+Enthusiast,;CCO+@Showwcase,;Content+Creator+@Technicave,;Love+to+contribute+to+Open+Source..<3"></a>
+</p>
+
 ## Who is Aryan Tiwari ?
 > Aryan a.k.a ([Technicave](https://twitter.com/technicave)) is a programmer who started programming at 14 and wanted to contribute to tech world. He is fascinated about Coding and building Tech projects
 
