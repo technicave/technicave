@@ -6,6 +6,7 @@
 
 ## Who is Aryan Tiwari ?
 > Aryan a.k.a ([Technicave](https://twitter.com/technicave)) is a programmer who started programming at 14 and wanted to contribute to tech world. He is fascinated about Coding and building Tech projects
+Passionate about technology and all things related to programming. I am a proactive learner with deep expertise in several programming languages and frameworks such as Python and Django. I am also experienced in Full Stack Web Development, and I am always exploring new opportunities to challenge myself and improve my skills. In my free time, I enjoy attending tech meetups and hackathons, and I also contribute to open-source projects. Please feel free to connect with me to discuss anything tech-related
 
 <p align="center">
   <a href="http://twitter.com/technicave">
